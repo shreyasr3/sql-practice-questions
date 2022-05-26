@@ -19,3 +19,4 @@ Click on the Challenge to read the problem statement and on the Level to read th
 |7|[1757. Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)|[LeetCode Easy](https://github.com/shreyasr3/sql-practice-questions/blob/main/basic-select/1757-recyclable-and-low-fat-products.sql)|
 |8|[584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)|[LeetCode Easy](https://github.com/shreyasr3/sql-practice-questions/blob/main/basic-select/584-find-customer-referee.sql)|
 |9|[183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)|[LeetCode Easy](https://github.com/shreyasr3/sql-practice-questions/blob/main/basic-select/184-customer-who-never-order.sql)|
+|10|[1873. Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/)|[LeetCode Easy](https://github.com/shreyasr3/sql-practice-questions/blob/main/basic-select/1873-calculate-special-bonus.sql)|
