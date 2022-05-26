@@ -8,4 +8,5 @@ SET
 
 /* Alternate Solution */
 
-UPDATE salary SET sex = CHAR(ASCII('m') + ASCII('f')- ASCII(sex));
+UPDATE salary SET sex = CHAR(ASCII('m') + ASCII('f') - ASCII(sex));
+
