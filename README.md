@@ -3,7 +3,7 @@
 SQL Practice Question and Solutions
 
 
-# Table of Contents
+## Table of Contents
 
 Click on the Challenge to read the problem statement and on the Level to read the solution.
 
