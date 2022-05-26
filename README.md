@@ -22,3 +22,4 @@ Click on the Challenge to read the problem statement and on the Level to read th
 |10|[1873. Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/)|[LeetCode Easy](https://github.com/shreyasr3/sql-practice-questions/blob/main/basic-select/1873-calculate-special-bonus.sql)|
 |11|[627. Swap Salary](https://leetcode.com/problems/swap-salary/)|[LeetCode Easy Update](https://github.com/shreyasr3/sql-practice-questions/blob/main/update/627-swap-salary.sql)|
 |12|[196. Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)|[LeetCode Easy Delete](https://github.com/shreyasr3/sql-practice-questions/blob/main/deletes/196-delete-duplicate-emails.sql)|
+|13|[1667. Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/)|[LeetCode Easy](https://github.com/shreyasr3/sql-practice-questions/blob/main/basic-select/1667-fix-names-in-a-table.sql)|
