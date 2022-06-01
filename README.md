@@ -55,3 +55,5 @@ Click on the Challenge to read the problem statement and on the Level to read th
 |43|[197. Rising Temperature](https://leetcode.com/problems/rising-temperature/)|[LeetCode Easy](https://github.com/shreyasr3/sql-practice-questions/blob/main/basic-select/197-rising-temperature.sql)|
 |44|[607. Sales Person](https://leetcode.com/problems/sales-person/)|[LeetCode Easy](https://github.com/shreyasr3/sql-practice-questions/blob/main/basic-select/607-sales-person.sql)|
 |45|[1141. User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/)|[LeetCode Easy](https://github.com/shreyasr3/sql-practice-questions/blob/main/basic-select/1141-user-activity-pas-30-days-I.sql)|
+|46|[1693. Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/)|[LeetCode Easy](https://github.com/shreyasr3/sql-practice-questions/blob/main/basic-select/1693-daily-leads-and-partners.sql)|
+|47|[1729. Find Followers Count](https://leetcode.com/problems/find-followers-count/)|[LeetCode Easy](https://github.com/shreyasr3/sql-practice-questions/blob/main/basic-select/1729-find-followers-count.sql)|
