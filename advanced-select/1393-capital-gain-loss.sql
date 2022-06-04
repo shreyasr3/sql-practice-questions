@@ -3,3 +3,4 @@ SELECT stock_name,
 FROM stocks
 GROUP BY stock_name
 ;
+
