@@ -68,3 +68,4 @@ Click on the Challenge to read the problem statement and on the Level to read th
 |56|[1741. Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/)|[LeetCode Easy](https://github.com/shreyasr3/sql-practice-questions/blob/main/basic-select/1741-find-total-time-spent-by-each-employee.sql)|
 |57|[Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=true)|[Advanced Select](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/type-of-triangle.sql)|
 |58*|[1393. Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/)|[LeetCode Medium](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/1393-capital-gain-loss.sql)|
+|59|[1407. Top Travellers](https://leetcode.com/problems/top-travellers/)|[LeetCode Easy](https://github.com/shreyasr3/sql-practice-questions/blob/main/basic-join/1407-top-travellers.sql)|
