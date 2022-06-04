@@ -66,3 +66,4 @@ Click on the Challenge to read the problem statement and on the Level to read th
 |54|[African Cities](https://www.hackerrank.com/challenges/african-cities/problem?h_r=next-challenge&h_v=zen)|[Basic Join](https://github.com/shreyasr3/sql-practice-questions/blob/main/basic-join/African-cities.sql)|
 |55|[Average Population of Each Continent]()|[Basic Join](https://github.com/shreyasr3/sql-practice-questions/blob/main/basic-join/average-population-of-each-continent.sql)|
 |56|[1741. Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/)|[LeetCode Easy](https://github.com/shreyasr3/sql-practice-questions/blob/main/basic-select/1741-find-total-time-spent-by-each-employee.sql)|
+|57|[Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=true)|[Advanced Select](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/type-of-triangle.sql)|
