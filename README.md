@@ -69,3 +69,4 @@ Click on the Challenge to read the problem statement and on the Level to read th
 |57|[Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=true)|[Advanced Select](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/type-of-triangle.sql)|
 |58*|[1393. Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/)|[LeetCode Medium](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/1393-capital-gain-loss.sql)|
 |59|[1407. Top Travellers](https://leetcode.com/problems/top-travellers/)|[LeetCode Easy](https://github.com/shreyasr3/sql-practice-questions/blob/main/basic-join/1407-top-travellers.sql)|
+|60*|[1158. Market Analysis I](https://leetcode.com/problems/market-analysis-i/)|[LeetCode Medium](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/1158-market-analysis-I.sql)|
