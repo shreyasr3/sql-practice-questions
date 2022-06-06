@@ -77,3 +77,4 @@ Click on the Challenge to read the problem statement and on the Level to read th
 |65|[1587. Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/)|[LeetCode Easy](https://github.com/shreyasr3/sql-practice-questions/blob/main/basic-select/1587-bank-account-summary-II.sql)|
 |66|[1084. Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii/)|[LeetCode Easy](https://github.com/shreyasr3/sql-practice-questions/blob/main/basic-select/1084-sales-analysis-III.sql)|
 |67|[1303. Find the Team Size](https://leetcode.com/problems/find-the-team-size/)|[LeetCode Easy](https://github.com/shreyasr3/sql-practice-questions/blob/main/basic-select/1303-find-the-team-size.sql)|
+|68*|[1308. Running Total for Different Genders](https://leetcode.com/problems/running-total-for-different-genders/)|[LeetCode Medium](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/1308-running-total-for-different-genders.sql)|
