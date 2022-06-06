@@ -71,3 +71,5 @@ Click on the Challenge to read the problem statement and on the Level to read th
 |59|[1407. Top Travellers](https://leetcode.com/problems/top-travellers/)|[LeetCode Easy](https://github.com/shreyasr3/sql-practice-questions/blob/main/basic-join/1407-top-travellers.sql)|
 |60*|[1158. Market Analysis I](https://leetcode.com/problems/market-analysis-i/)|[LeetCode Medium](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/1158-market-analysis-I.sql)|
 |61|[The PAD](https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true&h_r=next-challenge&h_v=zen)|[Advanced Select](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/the-pads.sql)|
+|62|[182. Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[LeetCode Easy](https://github.com/shreyasr3/sql-practice-questions/blob/main/basic-select/182-duplicate-emails.sql)|
+|63|[Occupations](https://www.hackerrank.com/challenges/occupations/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen)|[Advanced Select](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/occupations.sql)|
