@@ -12,3 +12,4 @@ FROM Scores
 WINDOW W AS (ORDER BY score DESC)
 ;
 
+
