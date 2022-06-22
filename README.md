@@ -92,3 +92,4 @@ Click on the Challenge to read the problem statement and on the Level to read th
 |80|[1699. Number of Calls Between Two Persons](https://leetcode.com/problems/number-of-calls-between-two-persons/)|[LeetCode Medium](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/1699-number-of-calls.sql)|
 |81|[1251. Average Selling Price](https://leetcode.com/problems/average-selling-price/)|[LeetCode Easy](https://github.com/shreyasr3/sql-practice-questions/blob/main/basic-select/1251-average-selling-price.sql)|
 |82|[1571. Warehouse Manager](https://leetcode.com/problems/warehouse-manager/)|[LeetCode Easy](https://github.com/shreyasr3/sql-practice-questions/blob/main/basic-select/1571-warehouse-manager.sql)|
+|83|[1445. Apples & Oranges](https://leetcode.com/problems/apples-oranges/)|[LeetCode Medium](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/1445-apples-oranges.sql)|
