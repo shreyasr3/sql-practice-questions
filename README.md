@@ -102,4 +102,5 @@ Click on the Challenge to read the problem statement and on the Level to read th
 |90|[1211. Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/)|[LeetCode Easy](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/1211-queries-quality-percentage.sql)|
 |91|[1607. Sellers With No Sales](https://leetcode.com/problems/sellers-with-no-sales/)|[LeetCode Easy](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/1607-sellers-with-no-sales.sql)|
 |92|[619. Biggest Single Number](https://leetcode.com/problems/biggest-single-number/)|[LeetCode Easy](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/619-biggest-single-number.sql)|
-
+|93|[1112. Highest Grade For Each Student](https://leetcode.com/problems/highest-grade-for-each-student/)|[LeetCode Medium](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/1112-highest-grade-each-student.sql)|
+|94|[1398. Customers Who Bought Products A and B but Not C](https://leetcode.com/problems/customers-who-bought-products-a-and-b-but-not-c/)|[LeetCode Medium](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/1398-customers-who-bought-A-B.sql)|
