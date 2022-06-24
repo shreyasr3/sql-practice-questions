@@ -99,3 +99,7 @@ Click on the Challenge to read the problem statement and on the Level to read th
 |87|[1193. Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/)|[LeetCode Medium](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/1193-monthly-transactions-I.sql)|
 |88|[1633. Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/)|[LeetCode Easy](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/1633-percentage-users-attended-contest.sql)|
 |89|[1173. Immediate Food Delivery I](https://leetcode.com/problems/immediate-food-delivery-i/)|[LeetCode Easy](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/1173-immediate-food-delivery-I.sql)|
+|90|[1211. Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/)|[LeetCode Easy](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/1211-queries-quality-percentage.sql)|
+|91|[1607. Sellers With No Sales](https://leetcode.com/problems/sellers-with-no-sales/)|[LeetCode Easy](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/1607-sellers-with-no-sales.sql)|
+|92|[619. Biggest Single Number](https://leetcode.com/problems/biggest-single-number/)|[LeetCode Easy](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/619-biggest-single-number.sql)|
+
