@@ -110,3 +110,5 @@ Click on the Challenge to read the problem statement and on the Level to read th
 |98|[1303. Find the Team Size](https://leetcode.com/problems/find-the-team-size/)|[LeetCode Easy](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/1303-find-the-team-size.sql)|
 |99|[1280. Students and Examinations](https://leetcode.com/problems/students-and-examinations/)|[LeetCode Easy](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/1280-students-examinations.sql)|
 |100|[184. Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)|[LeetCode Medium](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/184-department-highest-salary.sql)|
+|101|[580. Count Student Number in Departments](https://leetcode.com/problems/count-student-number-in-departments/)|[LeetCode Medium](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/580-count-student-in-departments.sql)|
+||||
