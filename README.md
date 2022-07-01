@@ -1,6 +1,6 @@
 # Description
 
-SQL Practice Question and Solutions
+SQL Practice Questions and Solutions
 
 
 ## Table of Contents
@@ -116,3 +116,4 @@ Click on the Challenge to read the problem statement and on the Level to read th
 |104|[1783. Grand Slam Titles](https://leetcode.com/problems/grand-slam-titles/)|[LeetCode Medium](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/1783-grand-slam-titles.sql)|
 |105|[1164. Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date/)|[LeetCode Medium](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/1164-product-price-at-given-date.sql)|
 |106|[603. Consecutive Available Seats](https://leetcode.com/problems/consecutive-available-seats/)|[LeetCode Easy](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/603-consecutive-available-seats.sql)|
+|107|[1731. The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/)|[LeetCode Easy](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/1731-the-number-of-employees-which-report-to-each-employee.sql)|
