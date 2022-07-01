@@ -1,4 +1,4 @@
-#.. Description
+# Description
 
 SQL Practice Question and Solutions
 
@@ -111,4 +111,6 @@ Click on the Challenge to read the problem statement and on the Level to read th
 |99|[1280. Students and Examinations](https://leetcode.com/problems/students-and-examinations/)|[LeetCode Easy](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/1280-students-examinations.sql)|
 |100|[184. Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)|[LeetCode Medium](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/184-department-highest-salary.sql)|
 |101|[580. Count Student Number in Departments](https://leetcode.com/problems/count-student-number-in-departments/)|[LeetCode Medium](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/580-count-student-in-departments.sql)|
-||||
+|102|[1294. Weather Type in Each Country](https://leetcode.com/problems/weather-type-in-each-country/)|[LeetCode Easy](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/1294-weather-type-in-each-country.sql)|
+|103|[626. Exchange Seats](https://leetcode.com/problems/exchange-seats/)|[LeetCode Medium](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/626-exchange-seats.sql)|
+|104|[1783. Grand Slam Titles](https://leetcode.com/problems/grand-slam-titles/)|[LeetCode Medium](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/1783-grand-slam-titles.sql)|
