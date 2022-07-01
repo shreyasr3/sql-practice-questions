@@ -119,3 +119,7 @@ Click on the Challenge to read the problem statement and on the Level to read th
 |107|[1731. The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/)|[LeetCode Easy](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/1731-the-number-of-employees-which-report-to-each-employee.sql)|
 |108|[1747. Leetflex Banned Accounts](https://leetcode.com/problems/leetflex-banned-accounts/)|[LeetCode Medium](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/1747-leetflex-banned-accounts.sql)|
 |109|[181. Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)|[LeetCode Easy](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/181-employees-earning-more-than-their-managers.sql)|
+|110|[1459. Rectangles Area](https://leetcode.com/problems/rectangles-area/)|[LeetCode Medium](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/1459-rectangles-area.sql)|
+|111|[180. Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/)|[LeetCode Medium](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/180-consecutive-numbers.sql)|
+|112|[1988. Find Cutoff Score for Each School](https://leetcode.com/problems/find-cutoff-score-for-each-school/)|[LeetCode Medium](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/1988-cutoff-for-each-school.sql)|
+|113|[]()|[]()|
