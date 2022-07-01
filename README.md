@@ -114,3 +114,5 @@ Click on the Challenge to read the problem statement and on the Level to read th
 |102|[1294. Weather Type in Each Country](https://leetcode.com/problems/weather-type-in-each-country/)|[LeetCode Easy](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/1294-weather-type-in-each-country.sql)|
 |103|[626. Exchange Seats](https://leetcode.com/problems/exchange-seats/)|[LeetCode Medium](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/626-exchange-seats.sql)|
 |104|[1783. Grand Slam Titles](https://leetcode.com/problems/grand-slam-titles/)|[LeetCode Medium](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/1783-grand-slam-titles.sql)|
+|105|[1164. Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date/)|[LeetCode Medium](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/1164-product-price-at-given-date.sql)|
+|106|[]()|[]()|
