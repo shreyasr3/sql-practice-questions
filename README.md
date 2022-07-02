@@ -122,4 +122,11 @@ Click on the Challenge to read the problem statement and on the Level to read th
 |110|[1459. Rectangles Area](https://leetcode.com/problems/rectangles-area/)|[LeetCode Medium](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/1459-rectangles-area.sql)|
 |111|[180. Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/)|[LeetCode Medium](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/180-consecutive-numbers.sql)|
 |112|[1988. Find Cutoff Score for Each School](https://leetcode.com/problems/find-cutoff-score-for-each-school/)|[LeetCode Medium](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/1988-cutoff-for-each-school.sql)|
-|113|[]()|[]()|
+|113|[1549. The Most Recent Orders for Each Product](https://leetcode.com/problems/the-most-recent-orders-for-each-product/)|[LeetCode Medium](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/1549-the-most-recent-order.sql)|
+|114***|[1321. Restaurant Growth](https://leetcode.com/problems/restaurant-growth/)|[LeetCode Medium](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/1321-restaurant-growth.sql)|
+|115|[1045. Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/)|[LeetCode Medium](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/1045-customers-who-bought-all-products.sql)|
+|116|[1341. Movie Rating](https://leetcode.com/problems/movie-rating/)|[LeetCode Medium](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/1341-movie-rating.sql)|
+|117|[1867. Orders With Maximum Quantity Above Average](https://leetcode.com/problems/orders-with-maximum-quantity-above-average/)|[LeetCode Medium](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/1867-orders-with-maximum-quantity-above-average.sql)|
+|118**|[550. Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/)|[LeetCode Medium](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/550-game-play-analysis-IV.sql)|
+|119***|[262. Trips and Users](https://leetcode.com/problems/trips-and-users/)|[LeetCode Hard](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/262-trips-and-users.sql)|
+
