@@ -129,4 +129,5 @@ Click on the Challenge to read the problem statement and on the Level to read th
 |117|[1867. Orders With Maximum Quantity Above Average](https://leetcode.com/problems/orders-with-maximum-quantity-above-average/)|[LeetCode Medium](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/1867-orders-with-maximum-quantity-above-average.sql)|
 |118**|[550. Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/)|[LeetCode Medium](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/550-game-play-analysis-IV.sql)|
 |119***|[262. Trips and Users](https://leetcode.com/problems/trips-and-users/)|[LeetCode Hard](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/262-trips-and-users.sql)|
-
+|120***|[185. Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/)|[LeetCode hard](https://github.com/shreyasr3/sql-practice-questions/blob/main/advanced-select/185-department-top-three-salaries.sql)|
+|121|[1767. Find the Subtasks That Did Not Execute](https://leetcode.com/problems/find-the-subtasks-that-did-not-execute/)|[LeetCode Hard]()|
